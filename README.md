@@ -56,5 +56,4 @@ Summary Table
 | View Doctor/Patient List      | ✔     | ✔      | ✔       |
 | Appointment Conflict Handling | ✔     | ✔      | ✔       |
 
-
-Happy coding with Doctor Appointment Booking System! 🚀
+  Doctor Appointment Booking System!
